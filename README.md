@@ -132,7 +132,3 @@ graph LR
 - Tutor có guardrail chống prompt injection, role confusion và tự động chuyển guide mode.
 - Retrieval luôn lọc theo quyền, course và trạng thái `approved` ở backend.
 
-## Lưu ý
-
-Source code của project không được công khai theo văn bản bảo mật của chương trình AI20K.
-
